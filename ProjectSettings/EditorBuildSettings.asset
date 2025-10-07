@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/MenuPrincipal/MenuPrincipal.unity
+    guid: 83535acfc223206438b8ab2b883f136a
+  - enabled: 1
+    path: Assets/Scenes/MenuDecadas/MenuDecadas.unity
+    guid: 3ee0e7476fb1ea344bebff35d92e09f4
+  - enabled: 1
+    path: Assets/Scenes/NIveles60/Niveles60.unity
+    guid: 4cdb35d12c07ebc49a7bdf59d47a2100
+  - enabled: 1
+    path: Assets/Scenes/NivelTheBeatles/TheBeatles_LetItBe.unity
+    guid: 169d642378cdb08488902e07a2b21bb7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
