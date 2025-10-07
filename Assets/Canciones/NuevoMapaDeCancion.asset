@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a571b0004f6b5c5479f3633304cc3c23, type: 3}
+  m_Name: NuevoMapaDeCancion
+  m_EditorClassIdentifier: Assembly-CSharp::SongChart
+  backingTrackClip: {fileID: 8300000, guid: 8381d351eb5adad4d8d73584f1ce65f3, type: 3}
+  instrumentTracks:
+  - {fileID: 8300000, guid: 9c231529514f2904d85a5f6806fec71e, type: 3}
+  - {fileID: 8300000, guid: 6cd6dc80e79fb594dbf169f95d06b91e, type: 3}
+  - {fileID: 8300000, guid: 677603d137aa9d84cba0fabb1d9ec2bf, type: 3}
+  - {fileID: 8300000, guid: dc4d4638eeb9b46419b173993bd2ff84, type: 3}
+  notes:
+  - spawnTime: 1
+    laneID: 1
+  - spawnTime: 2
+    laneID: 0
+  - spawnTime: 3
+    laneID: 3
+  - spawnTime: 4
+    laneID: 1
+  - spawnTime: 5
+    laneID: 2
+  - spawnTime: 6
+    laneID: 3
+  - spawnTime: 7
+    laneID: 1
+  - spawnTime: 8
+    laneID: 1
+  - spawnTime: 10
+    laneID: 2
+  - spawnTime: 11
+    laneID: 1
+  - spawnTime: 14
+    laneID: 1
+  - spawnTime: 15
+    laneID: 2
+  - spawnTime: 16
+    laneID: 1
+  - spawnTime: 17
+    laneID: 0
+  - spawnTime: 18
+    laneID: 2
+  - spawnTime: 20
+    laneID: 0
+  - spawnTime: 20
+    laneID: 3
+  - spawnTime: 21
+    laneID: 0
+  - spawnTime: 22
+    laneID: 2
+  - spawnTime: 24
+    laneID: 1
+  - spawnTime: 25
+    laneID: 1
+  - spawnTime: 26
+    laneID: 3
+  - spawnTime: 27
+    laneID: 2
+  - spawnTime: 28
+    laneID: 3
+  - spawnTime: 29
+    laneID: 2
+  - spawnTime: 30
+    laneID: 1
+  - spawnTime: 32
+    laneID: 1
+  - spawnTime: 33
+    laneID: 3
+  - spawnTime: 34
+    laneID: 3
+  - spawnTime: 35
+    laneID: 2
+  - spawnTime: 36
+    laneID: 3
+  - spawnTime: 39
+    laneID: 2
+  - spawnTime: 40
+    laneID: 0
+  - spawnTime: 42
+    laneID: 3
+  - spawnTime: 44
+    laneID: 1
+  - spawnTime: 46
+    laneID: 2
+  - spawnTime: 48
+    laneID: 1
+  - spawnTime: 50
+    laneID: 3
+  - spawnTime: 52
+    laneID: 1
+  - spawnTime: 54
+    laneID: 2
+  - spawnTime: 56
+    laneID: 1
+  - spawnTime: 58
+    laneID: 0
+  - spawnTime: 60
+    laneID: 1
+  - spawnTime: 62
+    laneID: 0
+  - spawnTime: 64
+    laneID: 1
+  - spawnTime: 66
+    laneID: 2
+  - spawnTime: 68
+    laneID: 0
+  - spawnTime: 70
+    laneID: 1
+  - spawnTime: 72
+    laneID: 2
+  - spawnTime: 74
+    laneID: 3
+  - spawnTime: 76
+    laneID: 3
+  - spawnTime: 78
+    laneID: 1
+  - spawnTime: 80
+    laneID: 2
+  - spawnTime: 82
+    laneID: 0
